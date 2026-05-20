@@ -5,12 +5,11 @@ The Library Management System is a standalone Python console-based application d
 The system provides a simple and structured way to simulate real-world library processes using Object-Oriented Programming (OOP) principles.
 
 The application allows users to:
-
-Add and manage books in the library collection
-Register and manage library members
-Borrow books and track active loans
-Return borrowed books and update availability
-View all books, members, and loan records in the system
+- Add and manage books in the library collection
+- Register and manage library members
+- Borrow books and track active loans
+- Return borrowed books and update availability
+- View all books, members, and loan records in the system
 
 Built as a console-based application, the system focuses on simplicity, clarity, and proper separation of concerns using OOP design. It runs entirely in the terminal and does not require external databases or internet connectivity.
 
@@ -71,15 +70,17 @@ python main.py
 8. Exit
 ```
 ## Features Overview
-Add books to the system with details such as title, author, and ID
-Register library members with unique identification
-Borrow books while updating availability status
-Return books and update loan records
-View complete lists of books, members, and active loans
+- Add books to the system with details such as title, author, and ID
+- Register library members with unique identification
+- Borrow books while updating availability status
+- Return books and update loan records
+- View complete lists of books, members, and active loans
 
 ## Author
 Developed by:
 Renelyn Dino
+
+In Partial Fulfillment of the Requirements for the Subject CC103 Computer Programming 2 Under the Course of Bachelor of Science in Information Technology at Sorsogon State University Bulan Campus. With the Supervision of our Professor John Mark Gabrentina.
 
 ## Notes
 
