@@ -49,7 +49,7 @@ library-management-system/
 
 ## How to Run
 
-Requirements
+Requirements:
 - Python 3.x installed
 
 Run the program:
