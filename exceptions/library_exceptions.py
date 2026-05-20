@@ -1,4 +1,4 @@
-# Exception classes
+# Custom Exception classes
 # Used for handling system errors
 
 class BookNotFoundError(Exception):
